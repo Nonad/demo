@@ -1,0 +1,4 @@
+baseURL = 'https://nonad.github.io/demo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "sam"
