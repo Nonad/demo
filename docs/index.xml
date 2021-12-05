@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Call me Sam</title>
     <link>https://nonad.github.io/demo/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Dec 2021 14:43:45 +0800</lastBuildDate><atom:link href="https://nonad.github.io/demo/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,17 @@
       
       <guid>https://nonad.github.io/demo/posts/20211202/</guid>
       <description>The blog is setting up&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nonad.github.io/demo/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://nonad.github.io/demo/about/</guid>
+      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way. I&amp;rsquo;m open source on GitHub.
+I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+I also have a simple responsive gallery feature.</description>
     </item>
     
   </channel>
